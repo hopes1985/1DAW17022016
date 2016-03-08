@@ -2,6 +2,7 @@ package prueba;
 
 public class Calculadora {
 
+	  //Suma de dos enteros (by Javi)
 	  public int sumar(int operando1, int operando2) {
 	     return operando1 + operando2+1;
 	  }
